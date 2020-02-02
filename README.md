@@ -1,2 +1,2 @@
-# LED-staff
-Arduino LED staff with microphone, accelerometer
+# LED-white-tube
+Arduino LED white tube with microphone
